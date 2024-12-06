@@ -1,6 +1,6 @@
 # Todo List Project
 
-A simple and interactive Todo List application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to add and delete tasks dynamically.
+A simple and interactive Todo List application built using **HTML** and **JavaScript**. This project allows users to add and delete tasks dynamically.
 
 ## Features
 - Add new tasks to the Todo List.
